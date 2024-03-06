@@ -7,3 +7,5 @@ llrec.h: Contains a function that removes nodes whose value doesn't meet the cri
 stack.h: An implementation of a stack by inheriting from the vector class.
 
 heap.h: An implementation of a d-ary heap.
+
+The rest of the files contain a logic board simulator.
